@@ -1,5 +1,6 @@
 # HR Analytics Dashboard
 1.Project Overview
+
 This Power BI dashboard analyzes employee attrition, salary trends, job roles, age groups, and workforce insights to help organizations improve employee retention and decision-making.
 
 2.Tools Used
